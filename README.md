@@ -1,5 +1,4 @@
 # Task7
-# Task6  
 # Breast Cancer Classification using Support Vector Machine (SVM)
 
 This project implements **Support Vector Machines (SVM)** with both linear and RBF kernels on the Breast Cancer Wisconsin dataset to classify tumors as benign or malignant.  
